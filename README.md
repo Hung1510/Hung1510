@@ -1,6 +1,8 @@
 ### Hello World / Xin chào!  ![](https://komarev.com/ghpvc/?username=Hung1510&color=blue)
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-stack+dev+%26+ML+learner;Software+engineer+%26+WH40K+painter;Currently+learning+Rust" />
 
+<img align="right" width="280" src="https://github.com/user-attachments/assets/fc3b1340-f3e2-42bb-b941-416cd3e86757" />
+
 - I'm **Phạm Trần Gia Hưng (Hung1510)**, a Software Engineering student at <a href="https://eiu.edu.vn/">Eastern International University</a>, Vietnam 🇻🇳
 - I'm currently building **full-stack apps** and exploring **AI / Computer Vision**
 - Currently learning **Rust** and **Machine Learning**

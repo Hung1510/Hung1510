@@ -1,5 +1,5 @@
 ### Hello World / Xin chào!  ![](https://komarev.com/ghpvc/?username=Hung1510&color=blue)
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-stack+dev+%26+AI+enthusiast;Game+dev+%26+WH40K+painter;Currently+learning+Rust" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-stack+dev+%26+ML+learner;Software+engineer+%26+WH40K+painter;Currently+learning+Rust" />
 
 - I'm **Phạm Trần Gia Hưng (Hung1510)**, a Software Engineering student at <a href="https://eiu.edu.vn/">Eastern International University</a>, Vietnam 🇻🇳
 - I'm currently building **full-stack apps** and exploring **AI / Computer Vision**
@@ -50,7 +50,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Hung1510&show_icons=true&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hung1510&theme=tokyonight)
 ![](https://github-profile-trophy.vercel.app/?username=Hung1510&theme=tokyonight&no-frame=true&column=7)
-![](https://github-readme-activity-graph.vercel.app/graph?username=Hung1510&theme=tokyo-night&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hung1510&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hung1510&layout=compact&theme=tokyonight)
 

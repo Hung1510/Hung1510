@@ -1,4 +1,5 @@
 ### Hello World / Xin chào!  ![](https://komarev.com/ghpvc/?username=Hung1510&color=blue)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-stack+dev+%26+AI+enthusiast;Game+dev+%26+WH40K+painter;Currently+learning+Rust" />
 
 - I'm **Phạm Trần Gia Hưng (Hung1510)**, a Software Engineering student at <a href="https://eiu.edu.vn/">Eastern International University</a>, Vietnam 🇻🇳
 - I'm currently building **full-stack apps** and exploring **AI / Computer Vision**
@@ -7,7 +8,6 @@
 - Current interests: Painting WH40K minis, and simping for Aemeath and Shorekeeper from WuWa
 
 ### Programming Languages
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-stack+dev+%26+AI+enthusiast;Game+dev+%26+WH40K+painter;Currently+learning+Rust" />
 [<img alt="TypeScript" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/)
 [<img alt="JavaScript" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img alt="Python" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](https://www.python.org/)
@@ -49,10 +49,10 @@
 ### GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Hung1510&show_icons=true&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hung1510&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hung1510&layout=compact&theme=tokyonight)
 ![](https://github-profile-trophy.vercel.app/?username=Hung1510&theme=tokyonight&no-frame=true&column=7)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Hung1510&theme=tokyo-night&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hung1510&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hung1510&layout=compact&theme=tokyonight)
 
 <p align="center">
 Feel free to connect! <br /><br />

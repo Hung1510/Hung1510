@@ -29,6 +29,8 @@
 [<img alt=".NET" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" />](https://dotnet.microsoft.com/)
 [<img alt=".NET Core" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" />](https://dotnet.microsoft.com/)
 [<img alt="TensorFlow" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" />](https://www.tensorflow.org/)
+[<img alt="NumPy" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" />](https://numpy.org/)
+[<img alt="OpenCV" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" />](https://opencv.org/)
 [<img alt="TailwindCSS" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />](https://tailwindcss.com/)
 
 ### Software & Tools

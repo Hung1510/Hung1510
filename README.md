@@ -50,7 +50,6 @@
 
 ### GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hung1510&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hung1510&layout=compact&theme=tokyonight)
 
 <p align="center">
 Feel free to connect! <br /><br />

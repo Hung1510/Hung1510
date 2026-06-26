@@ -49,10 +49,7 @@
 [<img alt="IntelliJ IDEA" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />](https://www.jetbrains.com/idea/)
 
 ### GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Hung1510&show_icons=true&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hung1510&theme=tokyonight)
-![](https://github-profile-trophy.vercel.app/?username=Hung1510&theme=tokyonight&no-frame=true&column=7)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hung1510&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hung1510&layout=compact&theme=tokyonight)
 
 <p align="center">

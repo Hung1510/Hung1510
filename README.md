@@ -3,7 +3,7 @@
 
 <img align="right" width="280" src="https://github.com/user-attachments/assets/fc3b1340-f3e2-42bb-b941-416cd3e86757" />
 
-- I'm **Phạm Trần Gia Hưng (Hung1510)**, a Software Engineering student at <a href="https://eiu.edu.vn/">Eastern International University</a>, Vietnam 🇻🇳
+- I'm **Phạm Trần Gia Hưng (Hung1510)**, a Software Engineering graduate at <a href="https://eiu.edu.vn/">Eastern International University</a>, Vietnam 🇻🇳
 - I'm currently building **full-stack apps** and exploring **AI / Computer Vision**
 - Currently learning **Rust** and **Machine Learning**
 - Ask me about **web dev**, **game dev (UE5)**, **gacha game (Arknights, Wuthering Wave)** or **Warhammer 40K** lore

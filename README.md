@@ -20,6 +20,10 @@
 [<img alt="R" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" />](https://www.r-project.org/)
 [<img alt="MATLAB" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" />](https://www.mathworks.com/products/matlab.html)
 [<img alt="SQL" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />](https://en.wikipedia.org/wiki/SQL)
+[<img alt="HTML5" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img alt="CSS3" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img alt="Lua" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" />](https://www.lua.org/)
+[<img alt="Bash" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />](https://www.gnu.org/software/bash/)
 
 ### Frameworks & Libraries
 [<img alt="React" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />](https://react.dev/)
@@ -35,6 +39,13 @@
 [<img alt="NumPy" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" />](https://numpy.org/)
 [<img alt="OpenCV" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" />](https://opencv.org/)
 [<img alt="TailwindCSS" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />](https://tailwindcss.com/)
+[<img alt="Vite" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" />](https://vitejs.dev/)
+[<img alt="Bootstrap" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />](https://getbootstrap.com/)
+[<img alt="D3.js" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" />](https://d3js.org/)
+[<img alt="PyTorch" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" />](https://pytorch.org/)
+[<img alt="Pandas" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />](https://pandas.pydata.org/)
+[<img alt="scikit-learn" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" />](https://scikit-learn.org/)
+[<img alt="Matplotlib" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" />](https://matplotlib.org/)
 
 ### Software & Tools
 [<img alt="Git" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />](https://git-scm.com/)
@@ -47,6 +58,15 @@
 [<img alt="Anaconda" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" />](https://www.anaconda.com/)
 [<img alt="Visual Studio" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" />](https://visualstudio.microsoft.com/)
 [<img alt="IntelliJ IDEA" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />](https://www.jetbrains.com/idea/)
+[<img alt="Vercel" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" />](https://vercel.com/)
+[<img alt="Firebase" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />](https://firebase.google.com/)
+[<img alt="Redis" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" />](https://redis.io/)
+[<img alt="SQLite" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" />](https://www.sqlite.org/)
+[<img alt="Postman" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" />](https://www.postman.com/)
+[<img alt="GitHub Actions" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" />](https://github.com/features/actions)
+[<img alt="npm" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />](https://www.npmjs.com/)
+[<img alt="Linux" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />](https://www.linux.org/)
+[<img alt="Unreal Engine" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" />](https://www.unrealengine.com/)
 
 ### GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hung1510&theme=tokyonight)

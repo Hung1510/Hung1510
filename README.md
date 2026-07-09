@@ -68,9 +68,6 @@
 [<img alt="Linux" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />](https://www.linux.org/)
 [<img alt="Unreal Engine" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" />](https://www.unrealengine.com/)
 
-### GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hung1510&theme=tokyonight)
-
 <p align="center">
 Feel free to connect! <br /><br />
 <a target="_blank" href="https://giahung-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></img></a>

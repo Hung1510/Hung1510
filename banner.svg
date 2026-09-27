@@ -1,0 +1,61 @@
+<svg viewBox="0 0 900 390" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code', 'SFMono-Regular', Consolas, monospace">
+  <defs>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#1E3A8A"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect x="0" y="0" width="900" height="390" rx="10" fill="#0d1117"/>
+
+  <!-- main header card -->
+  <rect x="1" y="1" width="898" height="198" rx="9" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <text x="24" y="28" font-size="13" fill="#8B949E">main</text>
+  <line x1="0" y1="44" x2="900" y2="44" stroke="#30363d" stroke-width="1"/>
+
+  <text x="30" y="100" font-size="38" font-weight="700" fill="#E6EDF3">Pham Tran Gia Hung</text>
+  <text x="30" y="135" font-size="19" letter-spacing="3" fill="#58A6FF">FULL-STACK DEVELOPER</text>
+  <text x="30" y="168" font-size="14" fill="#8B949E">TypeScript &#183; React &#183; NestJS &#183; FastAPI &#183; Python</text>
+
+  <!-- device / code window graphic -->
+  <rect x="690" y="55" width="170" height="105" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="702" y="67" width="146" height="65" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <text x="775" y="107" font-size="26" font-weight="700" fill="url(#glow)" text-anchor="middle">&lt;/&gt;</text>
+  <rect x="702" y="142" width="16" height="9" rx="2" fill="#58A6FF"/>
+  <rect x="722" y="142" width="16" height="9" rx="2" fill="#2563EB"/>
+  <rect x="742" y="142" width="16" height="9" rx="2" fill="#30363d"/>
+  <circle cx="832" cy="146" r="5" fill="none" stroke="#8B949E" stroke-width="1.2"/>
+  <circle cx="848" cy="146" r="5" fill="#58A6FF"/>
+
+  <text x="860" y="185" font-size="12" fill="#8B949E" text-anchor="end">v1.0.0</text>
+  <rect x="875" y="165" width="6" height="20" fill="#58A6FF"/>
+
+  <!-- quote / terminal strip -->
+  <rect x="30" y="220" width="840" height="46" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="50" y="249" font-size="15" fill="#58A6FF">&gt; the side-project backlog is winning 12 to 3</text>
+  <rect x="840" y="230" width="8" height="26" fill="#58A6FF"/>
+
+  <!-- tag pills -->
+  <g font-size="13" fill="#C9D1D9">
+    <rect x="30" y="290" width="118" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+    <circle cx="50" cy="306" r="5" fill="#3178C6"/>
+    <text x="64" y="311">TypeScript</text>
+
+    <rect x="158" y="290" width="90" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+    <circle cx="178" cy="306" r="5" fill="#61DAFB"/>
+    <text x="192" y="311">React</text>
+
+    <rect x="258" y="290" width="98" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+    <circle cx="278" cy="306" r="5" fill="#E0234E"/>
+    <text x="292" y="311">NestJS</text>
+
+    <rect x="366" y="290" width="102" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+    <circle cx="386" cy="306" r="5" fill="#3776AB"/>
+    <text x="400" y="311">Python</text>
+
+    <rect x="478" y="290" width="82" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+    <circle cx="498" cy="306" r="5" fill="#DE7B25"/>
+    <text x="512" y="311">Rust</text>
+  </g>
+</svg>

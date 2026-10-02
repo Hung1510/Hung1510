@@ -19,6 +19,8 @@
 
 [**Eco-Faker**](https://github.com/Hung1510/Eco-Faker) — Stateful, relationally-consistent fake e-commerce data generator. CLI, MCP server, REST/GraphQL/tRPC/MSW adapters, analytics, fraud sim, OTel traces, and more.
 
+[**Super-Earth-Armory-Forge**](https://github.com/Hung1510/Super-Earth-Armory-Forge) — Live armor-passive editor mod for Helldivers 2: an in-game Lua terminal that patches the game's data in memory, a byte-identical web builder, and 560+ checks against a fake game. 2,000+ downloads on AyakaMods and Nexus Mods.
+
 [**Code-Navigator**](https://github.com/Hung1510/Code-Navigator) — Ask your codebase in plain language: local RAG + code intelligence with hybrid retrieval, cross-encoder reranking, and a tree-sitter call graph.
 
 [**Somnium-Weaver**](https://github.com/Hung1510/Somnium-Weaver) — Transparent desktop overlay that weaves PC live vitals into particle tapestry — WPF/.NET 8, SkiaSharp, audio-reactive FFT, and an ONNX autoencoder.
